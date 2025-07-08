@@ -107,5 +107,4 @@
 <h3>Where can I get help if I need it?</h3>
 <p>Our team is available 24/7 via live chat to assist you with setup or troubleshooting.</p>
 
-</body>
-</html>
+
