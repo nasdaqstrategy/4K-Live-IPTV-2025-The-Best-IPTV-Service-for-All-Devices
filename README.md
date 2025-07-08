@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="description" content="Discover why 4K Live IPTV is the best IPTV service in 2025 for all devices. Stream 35,000+ channels and 150,000+ VODs in stunning 4K without buffering." />
-  <title>4K Live IPTV (2025): The Best IPTV Service for All Devices</title>
-</head>
-<body>
+
 
 <h1>4K Live IPTV (2025): The Best IPTV Service for All Devices</h1>
 
